@@ -6,6 +6,7 @@ An enzyme is a function that sorts two consecutive characters. pthreads are used
 Included in these files are:
 
 -instructions 
+
 Proj02-Handout Folder:
 -orignal files with the bugged, unfinished enzyme program
 -test runner program & makefile
